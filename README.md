@@ -6,8 +6,5 @@
 ![image](https://user-images.githubusercontent.com/105546921/200849923-50a7c83f-16e8-4937-857d-4617df79e3d9.png)
 ![image](https://user-images.githubusercontent.com/105546921/200850048-96ec2ecd-f8c7-4550-8f02-3b5620845d89.png)
 ![image](https://user-images.githubusercontent.com/105546921/200850138-52b3ab78-c451-46c8-9323-8765bcad7dcc.png)
-## Meu modelo fisico
 
-<img src="https://user-images.githubusercontent.com/105546921/200854016-f0f81076-29be-42a9-a8a1-daaf585cdb7e.jpg" width="400px" />
-</div>
 
